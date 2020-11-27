@@ -1,0 +1,24 @@
+{
+  "name": "imart-vue",
+  "version": "1.0.3-beta.2",
+  "description": "vue 相关的ui库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kangjiancheng/imart-vue.git"
+  },
+  "keywords": [
+    "kangjianghcneg",
+    "imart",
+    "vue"
+  ],
+  "author": "kangjiancheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kangjiancheng/imart-vue/issues"
+  },
+  "homepage": "https://github.com/kangjiancheng/imart-vue#readme"
+}
