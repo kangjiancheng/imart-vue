@@ -1,6 +1,6 @@
 {
   "name": "imart-vue",
-  "version": "1.0.3-beta.2",
+  "version": "1.0.3",
   "description": "vue 相关的ui库",
   "main": "index.js",
   "scripts": {
