@@ -1,0 +1,90 @@
+{
+  "entries": [
+    {
+      "entry": "files/v1alpha2",
+      "value": {
+        "files": [
+          {
+            "path": "index.js",
+            "sha512": "45546eed3667e04bc850eeeaad3871d5bd7ee190a8b59f4755fc2af058830ad6e01dbe9a3d46dc17721dca1f9557e59eb9dd2f125210cc1899463daa7aa1eba3"
+          },
+          {
+            "path": "README.md",
+            "sha512": "654e239d3c2f9431ffb07afb0806cecce5ddccd428838d5584cf1cec76e3092364a3d628a0209b64f88028ebed6f72bc2bddca18aa0132ec0eda1ea580782e14"
+          },
+          {
+            "path": "openpgp_prikey.txt",
+            "sha512": "dc1e133406954cac9d2ee53dce3e9c82066826c5ef1b2f4f35020198f3ab6ac9c00d01851940c44a673e973456a44eaa566e7b638e1764a99fbd6e99204d3824"
+          },
+          {
+            "path": "openpgp_pubkey.txt",
+            "sha512": "724358de32fd3f8e8f2de387e9e1e958115f7e2d8a22a77371351de224c1729909d72378b914be4699ccfba96443c80651c43ac9458cfdef61b0a46936f22648"
+          }
+        ]
+      }
+    },
+    {
+      "entry": "identity/v1alpha2",
+      "value": {
+        "identity": {
+          "pgpPublicKeyUrl": "https://keybase.io/kjc233/pgp_keys.asc"
+        }
+      }
+    },
+    {
+      "entry": "npmCompatiblePackageJson/v1alpha2",
+      "value": {
+        "packageJsonProperties": [
+          "author",
+          "bugs",
+          "dependencies",
+          "description",
+          "homepage",
+          "keywords",
+          "license",
+          "main",
+          "name",
+          "repository",
+          "scripts",
+          "version"
+        ],
+        "sha512": "f067e2dc5572205541e19461ff93a114e9e87586bf82ec71672976298d32804c0e55f9a88c24529faae3647dda19631c4f202498e338584f04b1ae281cfb8029"
+      }
+    },
+    {
+      "entry": "packageJson/v1alpha2",
+      "value": {
+        "packageJson": {
+          "name": "imart-vue",
+          "version": "1.0.3",
+          "description": "vue 相关的ui库",
+          "main": "index.js",
+          "scripts": {
+            "pgp": "node ./index.js",
+            "test": "echo \"Error: no test specified\" && exit 1"
+          },
+          "repository": {
+            "type": "git",
+            "url": "git+https://github.com/kangjiancheng/imart-vue.git"
+          },
+          "keywords": [
+            "kangjianghcneg",
+            "imart",
+            "vue"
+          ],
+          "author": "kangjiancheng",
+          "license": "ISC",
+          "bugs": {
+            "url": "https://github.com/kangjiancheng/imart-vue/issues"
+          },
+          "homepage": "https://github.com/kangjiancheng/imart-vue#readme",
+          "dependencies": {
+            "http": "0.0.1-security",
+            "openpgp": "^4.10.9"
+          }
+        }
+      }
+    }
+  ],
+  "signature": "-----BEGIN PGP SIGNATURE-----\nVersion: OpenPGP.js v4.10.9\nComment: https://openpgpjs.org\n\nwnUEARYKAAYFAl/cic0AIQkQh89KyVKlD18WIQRbl9kiKKGhFCdR0aKHz0rJ\nUqUPX/3EAQDDejudup5NsQ8MoEBkbJqzbKdI1GpRwF4mxrf8sUMxzwD/W/J0\n0TCBMw5UJkW8JKScHs3poF0o/opGOS+ndrRwwQ4=\n=6smS\n-----END PGP SIGNATURE-----\n"
+}
