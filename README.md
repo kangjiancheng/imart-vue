@@ -13,3 +13,7 @@ pkgsign sign --signer pgp --pgp-private-key-path ./openpgp_prikey.txt --pgp-priv
 ```
 pkgsign verify . --full
 ```
+
+公钥地址
+
+https://keybase.io/troncoredev/pgp_keys.asc
